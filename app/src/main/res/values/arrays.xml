@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="countries">
+        <item>@string/hidden</item>
+        <item>@string/spain</item>
+        <item>@string/english</item>
+        <item>@string/french</item>
+        <item>@string/portugal</item>
+
+    </string-array>
+</resources>
